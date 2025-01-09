@@ -2,13 +2,8 @@
 Resourse- Apana College
 
 Contents -
-1. Introduction
-2. Java Basics
-3. Java Data Types
-4. Java Variables
-5. Java Operators
-6. Java Control Structures
-7. Java Functions
-8. Java Arrays
-9. Java Classes
-10. Java Loops 
+1. 01-variables-DataTypes
+2. 02-operators
+3. 03-control-Structures
+4. 04-loops
+5. 05-patterns
