@@ -4,6 +4,7 @@ Resourse- Apana College
 Contents -
 1. 01-variables-DataTypes -(x)
 2. 02-operators -(x)
-3. 03-control-Structures
+3. 03-control-Structures -(x)
 4. 04-loops
 5. 05-patterns
+6. 06-
